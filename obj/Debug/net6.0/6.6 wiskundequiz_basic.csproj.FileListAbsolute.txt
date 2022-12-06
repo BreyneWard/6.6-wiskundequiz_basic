@@ -1,0 +1,15 @@
+D:\multimedi\Cscherp\6.6 wiskundequiz_basic\bin\Debug\net6.0\6.6 wiskundequiz_basic.exe
+D:\multimedi\Cscherp\6.6 wiskundequiz_basic\bin\Debug\net6.0\6.6 wiskundequiz_basic.deps.json
+D:\multimedi\Cscherp\6.6 wiskundequiz_basic\bin\Debug\net6.0\6.6 wiskundequiz_basic.runtimeconfig.json
+D:\multimedi\Cscherp\6.6 wiskundequiz_basic\bin\Debug\net6.0\6.6 wiskundequiz_basic.dll
+D:\multimedi\Cscherp\6.6 wiskundequiz_basic\bin\Debug\net6.0\6.6 wiskundequiz_basic.pdb
+D:\multimedi\Cscherp\6.6 wiskundequiz_basic\obj\Debug\net6.0\6.6 wiskundequiz_basic.csproj.AssemblyReference.cache
+D:\multimedi\Cscherp\6.6 wiskundequiz_basic\obj\Debug\net6.0\6.6 wiskundequiz_basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\multimedi\Cscherp\6.6 wiskundequiz_basic\obj\Debug\net6.0\6.6 wiskundequiz_basic.AssemblyInfoInputs.cache
+D:\multimedi\Cscherp\6.6 wiskundequiz_basic\obj\Debug\net6.0\6.6 wiskundequiz_basic.AssemblyInfo.cs
+D:\multimedi\Cscherp\6.6 wiskundequiz_basic\obj\Debug\net6.0\6.6 wiskundequiz_basic.csproj.CoreCompileInputs.cache
+D:\multimedi\Cscherp\6.6 wiskundequiz_basic\obj\Debug\net6.0\6.6 wiskundequiz_basic.dll
+D:\multimedi\Cscherp\6.6 wiskundequiz_basic\obj\Debug\net6.0\refint\6.6 wiskundequiz_basic.dll
+D:\multimedi\Cscherp\6.6 wiskundequiz_basic\obj\Debug\net6.0\6.6 wiskundequiz_basic.pdb
+D:\multimedi\Cscherp\6.6 wiskundequiz_basic\obj\Debug\net6.0\6.6 wiskundequiz_basic.genruntimeconfig.cache
+D:\multimedi\Cscherp\6.6 wiskundequiz_basic\obj\Debug\net6.0\ref\6.6 wiskundequiz_basic.dll
